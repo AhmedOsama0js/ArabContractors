@@ -1,16 +1,5 @@
 const Header = document.getElementById("headerNavbar");
 
-// const ServicesLocation = () => {
-//   const location = window.location.pathname;
-//   console.log(location);
-  
-//   if (location === "/index.html") {
-//     return``;
-//   } else {
-//     return `<li>`;
-//   }
-// };
-
 Header.innerHTML = `
   <nav class="navbar navbar-expand-lg bg-body-tertiary bg-light">
   <div class="container-fluid ">
