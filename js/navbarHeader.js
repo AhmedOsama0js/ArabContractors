@@ -21,7 +21,7 @@ Header.innerHTML = `
           <a class="nav-link" href="contact.html">CONTACT US</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Services.html">SERVES</a>
+          <a class="nav-link" href="Services.html">SERVICES</a>
         </li>
     </div>
   </div>
